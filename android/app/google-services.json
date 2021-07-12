@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026091401473",
+    "project_id": "portfolio-aa401",
+    "storage_bucket": "portfolio-aa401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026091401473:android:3df281ec3beb2145dddb00",
+        "android_client_info": {
+          "package_name": "com.example.waktusolat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026091401473-e9kbts4n4dclpknc4t46uhjrbei91lf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW693ICWHSE26-Xll9Ip6kprpDf7nXMio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026091401473-e9kbts4n4dclpknc4t46uhjrbei91lf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
