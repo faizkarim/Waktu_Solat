@@ -15,3 +15,16 @@ Flutter project with the integration of API.
 - Flutter Framework
 - API
 
+## Package Use 
+
+- http
+- get
+- countdown_timer_flutter
+- json_annotation
+- flutter_local_notifications
+- just_audio
+- location
+- intl
+- weather_icons
+- list_tile_switch
+- url_launcher
