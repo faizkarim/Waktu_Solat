@@ -1,6 +1,6 @@
 # Waktu Solat Negeri Pulau Pinang
 
-Flutter project.
+Flutter project with the integration of API.
 
 ## Features
 
@@ -8,4 +8,10 @@ Flutter project.
 - Memaparkan masjid-masjid yang berdekatan.
 - Push notification jika sudah masuk waktu dan melaungkan azan.
 - Menyediakan toggle untuk memainkan audio azan untuk setiap waktu.
+
+
+## Tool Use 
+
+- Flutter Framework
+- API
 
