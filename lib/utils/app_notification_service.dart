@@ -1,8 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:get/route_manager.dart';
 import 'package:waktusolat/screens/home.dart';
-import 'package:waktusolat/screens/mosque.dart';
 import 'package:waktusolat/utils/config/app_notification.dart';
 
 class AppNotificationService {
@@ -44,7 +42,7 @@ class AppNotificationService {
   }
 
   Future selectNotification(String payload) async {
-    Get.to(() => Home(selectedIndex: 2));
+    Get.to(() => Home(selectedIndex: 1));
   }
 
   showNotification(String prayerName) async {

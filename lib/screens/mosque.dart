@@ -14,10 +14,10 @@ class _MosqueState extends State<Mosque> {
 
   @override
   void initState() {
+    super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       await mosqueController.getLocation();
     });
-    super.initState();
   }
 
   static void navigateTo(double lat, double lng) async {

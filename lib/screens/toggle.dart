@@ -29,7 +29,7 @@ class _ToggleState extends State<Toggle> {
           Padding(
             padding: EdgeInsets.symmetric(horizontal: AppSize.spaceX16),
             child: Text(
-              'Suara Azan',
+              'Laungan Azan',
               style: TextStyle(
                 fontSize: AppSize.fontLargeX3,
                 fontWeight: FontWeight.bold,
